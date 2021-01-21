@@ -1,0 +1,9 @@
+//
+// Created by apel on 15.01.2021.
+//
+
+#ifndef YANDEX_CPP_COURSE_TEAMTASKS_H
+#define YANDEX_CPP_COURSE_TEAMTASKS_H
+
+
+#endif //YANDEX_CPP_COURSE_TEAMTASKS_H
